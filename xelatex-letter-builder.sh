@@ -2,7 +2,7 @@
 #
 #
 #  -----------------------------------------------------------
-#  |                "XeLaTeX-LetterBuilder"                    |
+#  |                "XeLaTeX-LetterBuilder"                  |
 #  -----------------------------------------------------------
 
 #  A Bash script to create automagically letters with XeLaTeX
