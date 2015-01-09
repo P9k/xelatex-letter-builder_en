@@ -1,7 +1,7 @@
 # xelatex-letter-builder_en
 A Bash script to create automagically letters with XeLaTeX
 
-This script will automatically create XeLaTeX letters in the Linux
+This script will automatically create XeLaTeX (a version of LaTeX) letters in the Linux
 Libertine and Linux Biolinum font. For that, it will utilize the 
 scrlttr2 class out of the KOMA-Script package.
 
